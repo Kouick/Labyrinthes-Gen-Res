@@ -1,0 +1,1 @@
+Alors, les fichiers de solution du 3 (et le 3 lui-même) sont tellement volumineux qu'ils ne peuvent être ouverts que sur Photoshop, et non sur un visualiseur normal. De plus, au format Photoshop, ils pèsent 3 Go. En outre, ce labyrinthe n'a pas de solution.

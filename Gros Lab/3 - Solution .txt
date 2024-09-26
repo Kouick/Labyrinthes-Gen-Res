@@ -1,0 +1,3 @@
+Désolé, le fichier est trop lourd pour que je puisse l'upload ici.
+
+Cependant, il n'y a pas de solution : le fichier du labyrinthe résolu est la combinaison du fichier de solution et du labyrinthe original.
